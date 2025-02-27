@@ -130,3 +130,5 @@ Conclusion
 This task successfully demonstrated the ability to implement and test an embedded system on a RISC-V platform. The final video presentation validated the system's functionality and efficiency in detecting threats using an ultrasonic sensor.
 
 
+video link- https://drive.google.com/drive/folders/14y8cnQamFTEdoWOsQcOLVr3mzDFUP33D
+
